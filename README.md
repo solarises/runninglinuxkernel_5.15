@@ -1,5 +1,5 @@
 # 《奔跑吧Linux内核》 第二版实验平台 - 升级版本
-
+aaa
 runninglinuxkernel_5.15是runninglinuxkernel_5.0升级版本，目的是方便读者验证新的内核特性和新的ARM64特性，例如MTE, PAC, BTI等。
 注意：本git repo推荐使用QEMU 6.2及以上版本，读者需要自行编译QEMU 6.2。
 
